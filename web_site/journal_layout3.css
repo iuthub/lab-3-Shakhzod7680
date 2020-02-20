@@ -1,0 +1,53 @@
+body
+{	
+	background-image: url("background.gif");
+	border:5px solid green;
+	position: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.body
+{
+	background-color: white;
+}
+.heading
+{	
+	text-align: right;
+	border: 5px solid red;
+}
+.heading #so 
+{
+	border: 5px solid yellow;
+	padding: 5px;
+	margin: 5px;
+}
+.main
+{
+	border:5px solid blue;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+}
+#date
+{
+	border:5px solid purple;
+	width:110px;
+	float:left;
+}
+.main2
+{
+	padding: 5px;
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	border:5px solid blue ;
+	overflow: auto;
+}
+span
+{
+	color:green;
+}
+img
+{
+	float:right;
+}

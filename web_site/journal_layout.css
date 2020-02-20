@@ -1,0 +1,26 @@
+body
+{
+	border:5px solid green;
+}
+.heading
+{	
+	border: 5px solid red;
+}
+.heading #so 
+{
+	border: 5px solid yellow;
+}
+.main
+{
+	border:5px solid blue;
+}
+#date
+{
+	border:5px solid purple;
+	width:110px;
+	float:left;
+}
+.main2
+{
+	border:5px solid blue ;
+}
